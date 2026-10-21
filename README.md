@@ -74,6 +74,7 @@ Edit the values at the top of the sketch:
 - **Won't pair:** remove the old "ESP32 Air Mouse" entry from Bluetooth settings and pair again.
 
 ## License
-![Wiring photo](Screenshot 2026-10-21 195226.png)
+![Wiring photo](esp32-mpu6050-air-mouse
+/Screenshot 2026-10-21 195226.png)
 
 MIT
